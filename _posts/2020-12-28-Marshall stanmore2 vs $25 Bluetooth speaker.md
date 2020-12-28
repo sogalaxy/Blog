@@ -17,8 +17,7 @@ It's bluetooth speaker but I will not use this for portable speaker.
 I used to listen to classical and jazz music.  
 Budget limit is $200.  
   
-  
-![marshall stanmore2](https://github.com/sogalaxy/blog/tree/master/assets/images/marshall/1.jpg]
+![marshall stanmore2](https://github.com/sogalaxy/blog/tree/master/assets/images/marshall/1.jpg)
 
 Amazon renewed product is $199.  
 I think that speaker is not that sensitive one, so I bought Amazon renewed product.  
