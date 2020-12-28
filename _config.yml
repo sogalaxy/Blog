@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "LAB"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "KYOUNGIN"
+name                     : KYOUNGIN
 description              : "Giant Shoulder"
 url                      : "https://sogalaxy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "KYOUNGIN"
+  name             : KYOUNGIN
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "CMU master student"
   location         : "Pittsburgh"
