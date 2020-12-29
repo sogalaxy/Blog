@@ -4,6 +4,9 @@ categories:
   - review
 tags:
   - speaker
+layout: categories
+permalink: /categories/
+author_profile: true
 ---
 
 When I used $25 bluetooth speaker, It sounds good but a little unsatisify in music.  
