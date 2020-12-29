@@ -27,3 +27,7 @@ I think that speaker is not that sensitive one, so I bought Amazon renewed produ
 In Stanmore2, You can hear the clear bass sound.  
 This make music have more sense of space and it present better music.  
 Even though 10-time expensive speaker does not provide 10time larger satisfaction in music quality, It increase the quality of relaxing.
+
+
+
+
