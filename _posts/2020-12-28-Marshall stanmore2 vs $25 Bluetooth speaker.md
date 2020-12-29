@@ -3,11 +3,7 @@ title: "[AmazonRenew] Marshall stanmore2 vs $25 Bluetooth speaker"
 categories:
   - review
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - speaker
 ---
 
 When I used $25 bluetooth speaker, It sounds good but a little unsatisify in music.  
