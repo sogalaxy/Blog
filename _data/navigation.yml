@@ -10,3 +10,16 @@ main:
     url: /collection-archive/
   - title: "Sitemap"
     url: /sitemap/
+
+# sidebar navigation list sample
+sidebar-sample:
+  - title: "Categories"
+    children:
+      - title: "Child Page A1"
+        url: /
+      - title: "Child Page A2"
+        url: /
+      - title: "Child Page A3"
+        url: /
+      - title: "Child Page A4"
+        url: /
