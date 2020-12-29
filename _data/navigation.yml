@@ -15,8 +15,8 @@ main:
 sidebar-sample:
   - title: "Categories"
     children:
-      - title: "Child Page A1"
-        url: /
+      - title: "Posts"
+        permalink: /categories/
       - title: "Child Page A2"
         url: /
       - title: "Child Page A3"
