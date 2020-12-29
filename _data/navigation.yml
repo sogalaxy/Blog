@@ -11,8 +11,18 @@ main:
   - title: "Sitemap"
     url: /sitemap/
 
+# sidebar doc
+docs:
+  - title: "Categories"
+    permalink: /categories/
+    
+    
+sidebar:
+  nav: "docs"
+    
+
 # sidebar navigation list sample
-sidebar-sample:
+sidebar:
   - title: "Categories"
     children:
       - title: "Posts"
