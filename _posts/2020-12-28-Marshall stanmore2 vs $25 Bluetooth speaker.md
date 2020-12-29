@@ -15,8 +15,10 @@ First, I consider harman kardon Onyx, but I'm finally buying Marshall stanmore2
 It's bluetooth speaker but I will not use this for portable speaker.  
 I used to listen to classical and jazz music.  
 Budget limit is $200.  
-  
-![marshall stanmore2](https://github.com/sogalaxy/blog/tree/master/assets/images/marshall/1.png)
+
+
+![marshall stanmore2]({{ site.url }}{{ site.baseurl }}/assets/images/marshall/1.png){: .align-center}
+
 
 Amazon renewed product is $199.  
 I think that speaker is not that sensitive one, so I bought Amazon renewed product.  
