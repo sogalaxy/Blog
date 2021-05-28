@@ -249,7 +249,7 @@ tag_archive:
 # https://github.com/jekyll/jekyll-archives
  jekyll-archives:
    enabled:
-     - categories: [ python, blender, review ]
+     - categories
      - tags
    layouts:
      category: archive-taxonomy
