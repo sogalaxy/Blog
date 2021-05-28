@@ -1,7 +1,6 @@
+# 여기는 페이지 매뉴수정하는곳
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Posts"
